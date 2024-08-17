@@ -1,0 +1,13 @@
+.vs/
+Biblioteca/obj/Debug/
+Ejemplo-API/obj/
+Ejemplo-API/bin/
+Ejemplo-MVC/obj/
+Ejemplo-MVC/bin/
+Biblioteca/obj/
+Biblioteca/bin/
+**/.vs/
+**/obj/Debug/
+**/obj/
+**/bin/Debug/
+*.csproj.user
